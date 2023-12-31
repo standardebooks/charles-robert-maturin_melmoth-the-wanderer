@@ -60,6 +60,22 @@ p span.i10{
 }
 /* End verse */
 
+/* Letter styling */
+
+footer{
+	margin-top: 1em;
+	text-align: right;
+}
+
+[epub|type~="z3998:signature"]{
+	font-variant: small-caps;
+}
+
+[epub|type~="z3998:letter"] header{
+	text-align: right;
+}
+
+
 /* In-line headers for the various tales (not in the ToC) */
 p + section > header,
 header + section > header{
