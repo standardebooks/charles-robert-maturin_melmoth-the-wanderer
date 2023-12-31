@@ -59,3 +59,11 @@ p span.i10{
 	text-indent: -1em;
 }
 /* End verse */
+
+/* In-line headers for the various tales (not in the ToC) */
+p + section > header,
+header + section > header{
+	font-variant: small-caps;
+	margin: 1em;
+	text-align: center;
+}
