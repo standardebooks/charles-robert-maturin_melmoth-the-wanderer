@@ -42,7 +42,7 @@
 		<meta property="term" refines="#subject-4">sh98004865</meta>
 		<meta property="se:subject">Fiction</meta>
 		<meta property="se:subject">Horror</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">A set of overlapping tales tell the story of a mysterious, malevolent, ageless stranger.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			LONG_DESCRIPTION
 		</meta>
