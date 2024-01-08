@@ -56,7 +56,7 @@
 		<dc:source>https://archive.org/details/melmothwanderern01matuuoft</dc:source>
 		<dc:source>https://archive.org/details/melmothwanderern02matuuoft</dc:source>
 		<dc:source>https://archive.org/details/melmothwanderern03matuuoft</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<meta property="se:production-notes">Much of the book consists of a series of tales; in the original this was indicated by running quotation marks encompassing nearly the entirety of chapters five through thirty-seven; these have been removed, and the modern convention followed of placing asides from the story in parentheses. In addition, long paragraphs containing multiple lines of dialogue have been broken out in this edition by the addition of paragraph breaks between speakers.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Melmoth_the_Wanderer</meta>
