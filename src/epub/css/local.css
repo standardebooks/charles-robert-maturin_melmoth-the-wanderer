@@ -24,6 +24,11 @@
 }
 /* End all epigraphs */
 
+/* Support for language tags in blockquotes */
+blockquote[xml|lang]{
+	font-style: italic;
+}
+
 /* Verse */
 [epub|type~="z3998:verse"] p{
 	text-align: initial;
