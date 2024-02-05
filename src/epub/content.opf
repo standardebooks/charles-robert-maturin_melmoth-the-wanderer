@@ -44,7 +44,9 @@
 		<meta property="se:subject">Horror</meta>
 		<dc:description id="description">A set of overlapping tales tell the story of a mysterious, malevolent, ageless stranger.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;The Gothic novel of the eighteenth and early nineteenth centuries often feature charismatic villains and brooding Byronic heroes. Melmoth, the mysterious title character, acts as both in this, &lt;a href="https://standardebooks.org/ebooks/charles-robert-maturin"&gt;Charles Robert Maturin’s&lt;/a&gt; best-known work, one of the last of the classic Gothics, a slow-burning supernatural story of suspense and horror.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Melmoth the Wanderer&lt;/i&gt; follows the menacing, ageless Wanderer through a complex web of nested stories within stories, told by his would-be victims and others who have crossed his path over his unnaturally long life. Along the way the tales take us from Ireland in the modern day of the novel’s nineteenth century readership, to utopian Indian islands, to a romantic castle in the seventeenth century English countryside, to Spain in the days of the Inquisition, where human horrors vie with the supernatural.&lt;/p&gt;
+			&lt;p&gt;Maturin’s influence on the modern horror novel can be seen in later works like &lt;a href="https://standardebooks.org/ebooks/bram-stoker/dracula"&gt;&lt;i&gt;Dracula&lt;/i&gt;&lt;/a&gt;, another novel that follows its title character acros Europe, weaving the tales of different narrators into a portrait of a mysterious and terrifying figure.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<!-- Text of the four-volume 1820 edition at Project Gutenberg -->
