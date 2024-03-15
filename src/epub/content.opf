@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/charles-robert-maturin/melmoth-the-wanderer</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2024-03-15T18:17:44Z</dc:date>
+		<meta property="dcterms:modified">2024-03-15T18:17:44Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -44,9 +44,9 @@
 		<meta property="se:subject">Horror</meta>
 		<dc:description id="description">A set of overlapping tales tell the story of a mysterious, malevolent, ageless stranger.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;The Gothic novel of the eighteenth and early nineteenth centuries often feature charismatic villains and brooding Byronic heroes. Melmoth, the mysterious title character, acts as both in this, &lt;a href="https://standardebooks.org/ebooks/charles-robert-maturin"&gt;Charles Robert Maturin’s&lt;/a&gt; best-known work, one of the last of the classic Gothics, a slow-burning supernatural story of suspense and horror.&lt;/p&gt;
-			&lt;p&gt;&lt;i&gt;Melmoth the Wanderer&lt;/i&gt; follows the menacing, ageless Wanderer through a complex web of nested stories within stories, told by his would-be victims and others who have crossed his path over his unnaturally long life. Along the way the tales take us from Ireland in the modern day of the novel’s nineteenth century readership, to utopian Indian islands, to a romantic castle in the seventeenth century English countryside, to Spain in the days of the Inquisition, where human horrors vie with the supernatural.&lt;/p&gt;
-			&lt;p&gt;Maturin’s influence on the modern horror novel can be seen in later works like &lt;a href="https://standardebooks.org/ebooks/bram-stoker/dracula"&gt;&lt;i&gt;Dracula&lt;/i&gt;&lt;/a&gt;, another novel that follows its title character acros Europe, weaving the tales of different narrators into a portrait of a mysterious and terrifying figure.&lt;/p&gt;
+			&lt;p&gt;The Gothic novel of the eighteenth and early nineteenth centuries often feature charismatic villains and brooding Byronic heroes. Melmoth, the mysterious title character, is both of these in this, &lt;a href="https://standardebooks.org/ebooks/charles-robert-maturin"&gt;Maturin’s&lt;/a&gt; best-known work and one of the last of the classic Gothic novels.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Melmoth the Wanderer&lt;/i&gt; is a slow-burning supernatural story of suspense and horror that follows the menacing, ageless Wanderer through a complex web of nested stories within stories, told by his would-be victims and others who have crossed his path over his unnaturally long life. Along the way the tales take us from nineteenth-century Ireland, to utopian Indian islands, to a romantic castle in the seventeenth-century English countryside, to Spain in the days of the Inquisition, where human horrors vie with the supernatural.&lt;/p&gt;
+			&lt;p&gt;Maturin’s influence on the modern horror novel can be seen in later works like &lt;a href="https://standardebooks.org/ebooks/bram-stoker/dracula"&gt;&lt;i&gt;Dracula&lt;/i&gt;&lt;/a&gt;, another novel that follows its title character across Europe, while weaving the tales of different narrators into a portrait of a mysterious and terrifying figure.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<!-- Text of the four-volume 1820 edition at Project Gutenberg -->
@@ -61,8 +61,8 @@
 		<!-- Preface (omitted in 1892) proofed against the 1820 edition, volume 1 -->
 		<dc:source>https://archive.org/details/melmothwanderert01matu</dc:source>
 		<meta property="se:production-notes">Much of the book consists of a series of tales; in the original this was indicated by running quotation marks encompassing nearly the entirety of chapters five through thirty-seven; these have been removed, and the modern convention followed of placing asides from the story in parentheses. In addition, long paragraphs containing multiple lines of dialogue have been broken out in this edition by the addition of paragraph breaks between speakers.</meta>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">241244</meta>
+		<meta property="se:reading-ease.flesch">62.11</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Melmoth_the_Wanderer</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/charles-robert-maturin_melmoth-the-wanderer</meta>
 		<dc:creator id="author">Charles Robert Maturin</dc:creator>
@@ -94,6 +94,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">wat</meta>
 		<meta property="schema:accessMode">visual</meta>
 		<meta property="schema:accessibilityFeature">alternativeText</meta>
+		<dc:contributor id="producer-2">Emma Sweeney</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Sweeney, Emma</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://www.linkedin.com/in/emma-sweeney-554927190/</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
