@@ -25,7 +25,6 @@
 		<meta property="schema:accessibilityFeature">unlocked</meta>
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.2 Level AA.</meta>
-		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">Melmoth the Wanderer</dc:title>
 		<meta property="file-as" refines="#title">Melmoth the Wanderer</meta>
 		<dc:subject id="subject-1">Horror tales</dc:subject>
@@ -94,6 +93,7 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">wat</meta>
 		<meta property="schema:accessMode">visual</meta>
 		<meta property="schema:accessibilityFeature">alternativeText</meta>
+		<meta property="schema:accessibilityFeature">displayTransformability</meta>
 		<dc:contributor id="producer-2">Emma Sweeney</dc:contributor>
 		<meta property="file-as" refines="#producer-2">Sweeney, Emma</meta>
 		<meta property="se:url.homepage" refines="#producer-2">https://www.linkedin.com/in/emma-sweeney-554927190/</meta>
