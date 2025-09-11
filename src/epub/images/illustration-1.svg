@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" version="1.2" viewBox="0 0 1500.0001 500.00002">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" version="1.2" viewBox="0 0 1500 500">
 	<title>Two bars of music, written on a grand staff.</title>
 	<polyline class="StaffLines" fill="none" points="47.68400000000008,71.40300000000002 1483.562,71.40300000000002" stroke="#000000" stroke-linejoin="bevel" stroke-width="2.73"/>
 	<polyline class="StaffLines" fill="none" points="47.68400000000008,96.20300000000003 1483.562,96.20300000000003" stroke="#000000" stroke-linejoin="bevel" stroke-width="2.73"/>
