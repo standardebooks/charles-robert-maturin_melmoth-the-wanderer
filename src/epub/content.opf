@@ -60,7 +60,7 @@
 		<!-- Preface (omitted in 1892) proofed against the 1820 edition, volume 1 -->
 		<dc:source>https://archive.org/details/melmothwanderert01matu</dc:source>
 		<meta property="se:production-notes">Much of the book consists of a series of tales; in the original this was indicated by running quotation marks encompassing nearly the entirety of chapters five through thirty-seven; these have been removed, and the modern convention followed of placing asides from the story in parentheses. In addition, long paragraphs containing multiple lines of dialogue have been broken out in this edition by the addition of paragraph breaks between speakers.</meta>
-		<meta property="se:word-count">241244</meta>
+		<meta property="se:word-count">240625</meta>
 		<meta property="se:reading-ease.flesch">62.11</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Melmoth_the_Wanderer</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/charles-robert-maturin_melmoth-the-wanderer</meta>
