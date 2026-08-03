@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/charles-robert-maturin/melmoth-the-wanderer</dc:identifier>
 		<dc:date>2024-03-15T18:17:44Z</dc:date>
@@ -42,12 +42,12 @@
 		<meta property="term" refines="#subject-4">sh98004865</meta>
 		<meta property="schema:genre">Fiction</meta>
 		<meta property="schema:genre">Horror</meta>
-		<dc:description id="description">A set of overlapping tales tell the story of a mysterious, malevolent, ageless stranger.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>A set of overlapping tales tell the story of a mysterious, malevolent, ageless stranger.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;The Gothic novel of the eighteenth and early nineteenth centuries often feature charismatic villains and brooding Byronic heroes. Melmoth, the mysterious title character, is both of these in this, &lt;a href="https://standardebooks.org/ebooks/charles-robert-maturin"&gt;Maturin’s&lt;/a&gt; best-known work and one of the last of the classic Gothic novels.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;Melmoth the Wanderer&lt;/i&gt; is a slow-burning supernatural story of suspense and horror that follows the menacing, ageless Wanderer through a complex web of nested stories within stories, told by his would-be victims and others who have crossed his path over his unnaturally long life. Along the way the tales take us from nineteenth-century Ireland, to utopian Indian islands, to a romantic castle in the seventeenth-century English countryside, to Spain in the days of the Inquisition, where human horrors vie with the supernatural.&lt;/p&gt;
 			&lt;p&gt;Maturin’s influence on the modern horror novel can be seen in later works like &lt;a href="https://standardebooks.org/ebooks/bram-stoker/dracula"&gt;&lt;i&gt;Dracula&lt;/i&gt;&lt;/a&gt;, another novel that follows its title character across Europe, while weaving the tales of different narrators into a portrait of a mysterious and terrifying figure.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<!-- Text of the four-volume 1820 edition at Project Gutenberg -->
 		<dc:source>https://www.gutenberg.org/ebooks/53685</dc:source>
